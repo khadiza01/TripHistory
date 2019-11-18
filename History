@@ -1,38 +1,34 @@
 [
      {
-        "TripID" : "54321",
+        "request_id" : "54321",
         "LoadLocation" : "মিরপুর-১,মিরপুর,  ঢাকা সিটি",
         "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
-        "Time" : "রাত ৯ টা",
-        "Date" : "2019-10-30", 
-        "bidCount" : "০",
-        "lowestBid" : "০"
+        "pick_time": "2019-10-26 06:00:00",
+        "trip_price": "2500",
+        "status" : "finished"
     },
     {
-        "TripID" : "54321",
+        "request_id" : "54321",
         "LoadLocation" : "মিরপুর-১,মিরপুর,  ঢাকা সিটি",
         "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
-        "Time" : "রাত ৯ টা",
-        "Date" : "2019-10-31", 
-        "bidCount" : "০",
-        "lowestBid" : "০"
+        "pick_time": "2019-10-26 06:00:00",
+        "trip_price": "2500",
+        "status" : "finished"
     },
     {
-        "TripID" : "54321",
+        "request_id" : "54321",
         "LoadLocation" : "মিরপুর-১,মিরপুর,  ঢাকা সিটি",
         "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
-        "Time" : "রাত ৯ টা",
-        "Date" : "2019-09-16", 
-        "bidCount" : "৩",
-        "lowestBid" : "৮৫০"
+        "pick_time": "2019-10-26 06:00:00",
+        "trip_price": "2500",
+        "status" : "cancelled"
     },
     {
-        "TripID" : "54321",
+        "request_id" : "54321",
         "LoadLocation" : "মিরপুর-১,মিরপুর,  ঢাকা সিটি",
         "UnloadLocation" : "আরামবাগ, মতিঝিল,  ঢাকা সিটি",
-        "Time" : "রাত ৯ টা",
-        "Date" : "2019-10-05", 
-        "bidCount" : "৩",
-        "lowestBid" : "৮৫০"
-    }
+        "pick_time": "2019-10-26 06:00:00",
+        "trip_price": "2500",
+        "status" : "cancelled"
+    },
 ]
